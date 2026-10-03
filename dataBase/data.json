@@ -28,5 +28,11 @@
     "name": "Anamika",
     "age": 25,
     "city": "Kolhapur"
+  },
+  {
+    "id": 6,
+    "name": "Yogesh",
+    "age": 55,
+    "city": "Beed"
   }
 ]
