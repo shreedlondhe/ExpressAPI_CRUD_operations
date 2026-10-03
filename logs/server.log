@@ -1,0 +1,21 @@
+[START] 03-10-2026 13:37:57.45 
+Server running on http://localhost:3000
+[START] 03-10-2026 13:38:52.99 
+Server running on http://localhost:3000
+^C[START] 03-10-2026 13:40:44.00 
+Server running on http://localhost:3000
+^C[START] 03-10-2026 13:48:50.82 
+Server running on http://localhost:3000
+SyntaxError: Expected double-quoted property name in JSON at position 24 (line 4 column 1)
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\DELL\Desktop\expressAPI\node_modules\body-parser\lib\types\json.js:91:21)
+    at C:\Users\DELL\Desktop\expressAPI\node_modules\body-parser\lib\read.js:162:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at invokeCallback (C:\Users\DELL\Desktop\expressAPI\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\DELL\Desktop\expressAPI\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\DELL\Desktop\expressAPI\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:508:28)
+    at endReadableNT (node:internal/streams/readable:1701:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+[START] 03-10-2026 13:51:35.43 
+Server running on http://localhost:3000
