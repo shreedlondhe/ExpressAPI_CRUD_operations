@@ -28,47 +28,13 @@
     "name": "Anamika",
     "age": 25,
     "city": "Delhi"
-  },
+  }
+  ,
   {
-    "id": 6
-  },
-  {
-    "id": 7
-  },
-  {
-    "id": 8,
-    "name": "John",
+    "id": 6,
+    "name": "Yogesh",
     "age": 25,
-    "city": "Pune"
-  },
-  {
-    "id": 9,
-    "name": "John",
-    "age": 25,
-    "city": "Pune"
-  },
-  {
-    "id": 10,
-    "name": "John",
-    "age": 25,
-    "city": "Pune"
-  },
-  {
-    "id": 11,
-    "name": "John",
-    "age": 25,
-    "city": "Pune"
-  },
-  {
-    "id": 12,
-    "name": "John",
-    "age": 25,
-    "city": "Pune"
-  },
-  {
-    "id": 13,
-    "name": "John",
-    "age": 25,
-    "city": "Pune"
+    "city": "Beed"
   }
 ]
+  
