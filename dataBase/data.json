@@ -7,67 +7,26 @@
   },
   {
     "id": 2,
-    "name": "Rahul",
-    "age": 28,
+    "name": "Akash",
+    "age": 27,
     "city": "Mumbai"
   },
   {
     "id": 3,
-    "name": "Alice",
-    "age": 25,
-    "city": "Delhi"
+    "name": "Deepali",
+    "age": 26,
+    "city": "Nashik"
   },
   {
     "id": 4,
-    "name": "Alice",
-    "age": 25,
-    "city": "Delhi"
+    "name": "Deepika",
+    "age": 29,
+    "city": "Nagpur"
   },
   {
     "id": 5,
+    "name": "Anamika",
     "age": 25,
-    "city": "Delhi"
-  },
-  {
-    "id": 6
-  },
-  {
-    "id": 7
-  },
-  {
-    "id": 8,
-    "name": "John",
-    "age": 25,
-    "city": "Pune"
-  },
-  {
-    "id": 9,
-    "name": "John",
-    "age": 25,
-    "city": "Pune"
-  },
-  {
-    "id": 10,
-    "name": "John",
-    "age": 25,
-    "city": "Pune"
-  },
-  {
-    "id": 11,
-    "name": "John",
-    "age": 25,
-    "city": "Pune"
-  },
-  {
-    "id": 12,
-    "name": "John",
-    "age": 25,
-    "city": "Pune"
-  },
-  {
-    "id": 13,
-    "name": "John",
-    "age": 25,
-    "city": "Pune"
+    "city": "Kolhapur"
   }
 ]
